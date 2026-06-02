@@ -1,2 +1,4 @@
-# Incubyte-Gmail-Compose-Testing
-Manual Testing assignment for Gmail Compose functionality
+## Project Overview
+This repository contains manual testing documentation for Gmail Compose functionality including:
+- Traditional Test Cases
+- BDD Scenarios
